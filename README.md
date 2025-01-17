@@ -1,5 +1,5 @@
-Chess written in Javascript.
-probably filled with bugs.
-AI needs tweeking but seems to know what its doing.
-Piece values need adjusting. 
+Chess written in Javascript. <br>
+probably filled with bugs.<br>
+AI needs tweeking but seems to know what its doing.<br>
+Piece values need adjusting. <br>
 minimax/alpha-beta could do with some upgrades.
